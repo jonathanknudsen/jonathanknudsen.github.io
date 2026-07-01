@@ -1,0 +1,3 @@
+[submodule "jk471"]
+	path = jk471
+	url = git@github.com:jonathanknudsen/duke-html.git
